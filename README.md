@@ -1,2 +1,1 @@
-# TinDog
-A funny web application
+TinDog Starting Files
